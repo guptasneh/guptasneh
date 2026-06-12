@@ -1,5 +1,4 @@
-# 💫 About Me:
-I’m Sneha Gupta, a data analytics and data science undergraduate who enjoys exploring data beyond the surface. I like breaking down messy datasets, experimenting with machine learning models, and presenting insights through clear visualizations. I’m driven by curiosity and a constant desire to learn and improve through real-world problem solving.
+
 
 
 ## 🌐 Socials:
